@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-13T17:17:21 IST" name="Default suite" finished-at="2025-08-13T17:17:21 IST" duration-ms="86">
+    <groups>
+    </groups>
+    <test started-at="2025-08-13T17:17:21 IST" name="Default test" finished-at="2025-08-13T17:17:21 IST" duration-ms="86">
+      <class name="Day6.ChildClass">
+        <test-method is-config="true" signature="beforestatement()[pri:0, instance:Day6.ChildClass@368f2016]" started-at="2025-08-13T17:17:21 IST" name="beforestatement" finished-at="2025-08-13T17:17:21 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforestatement -->
+        <test-method signature="childStatement()[pri:0, instance:Day6.ChildClass@368f2016]" started-at="2025-08-13T17:17:21 IST" name="childStatement" finished-at="2025-08-13T17:17:21 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- childStatement -->
+      </class> <!-- Day6.ChildClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
